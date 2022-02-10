@@ -1,0 +1,5 @@
+﻿  신규아이디추천.cpp
+C:\Users\brian\OneDrive\바탕 화면\권용민\baekjoon\programmers\kakao\kakao\신규아이디추천.cpp(23,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\brian\OneDrive\바탕 화면\권용민\baekjoon\programmers\kakao\kakao\신규아이디추천.cpp(33,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\brian\OneDrive\바탕 화면\권용민\baekjoon\programmers\kakao\kakao\신규아이디추천.cpp(48,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  kakao.vcxproj -> C:\Users\brian\OneDrive\바탕 화면\권용민\baekjoon\programmers\kakao\Debug\kakao.exe
