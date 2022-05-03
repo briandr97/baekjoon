@@ -27,5 +27,8 @@
     <ClCompile Include="프린터.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="신규아이디추천_리뉴얼.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
